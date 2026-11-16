@@ -1,0 +1,505 @@
+Zumarraga
+Zaragoza
+Zamboanga
+Wao
+Virac
+Vinzons
+Villasis
+Vigan
+Victorias
+Victoria
+Veruela
+Valenzuela
+NIA Valencia
+Urdaneta
+Ualog
+Tupi
+Tunasan
+Tuguegarao
+Tubod
+Trento
+Toledo
+Tiwi
+Tinongan
+Ternate
+Teresa
+Telabastagan
+Taytay
+Tayabas
+Tarlac City
+Tanza
+Tanjay
+Tangub
+Tandag
+Tanay
+Tanauan
+Taloc
+Talitay
+Talisay
+Talipapa
+Talavera
+Talacogon
+Magugpo Poblacion
+Taguig
+Tagudin
+Tagoloan
+Tagbina
+Tagbilaran City
+Tagaytay
+Tagas
+Tacurong
+Tacloban
+Tabaco
+Taal
+Surigao
+Surallah
+Sumag
+Sultan sa Barongis
+Sultan Kudarat
+Subic
+Sorsogon
+Solano
+Solana
+Sitangkai
+Sipalay
+Siocon
+Silang
+Sibulan
+Sibonga
+Sasmuan
+Lake Sebu
+Sariaya
+San Vicente
+Santo Tomas
+Santol
+Santiago
+Santa Rosa
+Santa Maria
+Santa Cruz
+Santa Catalina
+Santa Barbara
+Santa Ana
+San Simon
+San Pedro
+San Pascual
+San Pablo
+San Nicolas
+San Narciso
+San Miguel
+San Mateo
+San Mariano
+San Marcelino
+San Luis
+San Leonardo
+San Juan
+San Jose del Monte
+San Jose
+San Ildefonso
+San Francisco
+Aurora
+San Fernando
+Sanchez-Mira
+San Antonio
+Sampaloc
+Samal
+Sagay
+Sablayan
+Roxas
+Roxas City
+Rosario
+Rosales
+Romblon
+Rizal
+Recodo
+Ramos
+Ramon
+Quiapo
+Quezon City
+Quezon
+Putatan
+Pulupandan
+Pulong Santa Cruz
+Pulilan
+Puerto Princesa
+Prosperidad
+Port Area
+Porac
+Polomolok
+Polangui
+Plaridel
+Pio
+Pinamungahan
+Pinamalayan
+Pililla
+Pilar
+Pila
+Penaranda
+Patuto
+Pateros
+Passi
+Pasay
+Parang
+Paranaque City
+Paraiso
+Papaya
+Paombong
+Pantubig
+Paniqui
+Pangil
+Pandi
+Pandacaqui
+Panalanoy
+Panabo
+Palo
+Palayan City
+Pagbilao
+Pagalungan
+Pagadian
+Paete
+Pacol
+Paco
+Ozamiz City
+Oroquieta
+Ormoc
+Orion
+Orani
+Olongapo
+Obando
+Oas
+Nunungan
+Noveleta
+Novaliches Proper
+Norzagaray
+Norala
+New Corella
+Navotas
+Nasugbu
+Narra
+Naic
+Nagcarlan
+Naga
+Nabunturan
+Nabua
+Muricay
+Murcia
+Muntinlupa
+Munoz
+Morong
+Rodriguez
+Monkayo
+Molave
+Minglanilla
+Midsayap
+Meycauayan
+Mexico
+Mercedes
+Mendez-Nunez
+Mauban
+Mati
+Masinloc
+Masbate
+Masantol
+Mariveles
+Marilao
+Marikina City
+Mariano
+Marawi City
+Maramag
+Maragondon
+Mantampay
+Mansilingan
+Mansalay
+Manolo Fortich
+Manila
+Manibaug Pasig
+Mangaldan
+Mandaue City
+Mandaluyong City
+Mankayan
+Manay
+Manapla
+Manaoag
+Mamburao
+Mamatid
+Malvar
+Maluso
+Malungun
+Malolos
+Malita
+Malilipot
+Malaybalay
+Malapatan
+Malanday
+Malabon
+Malabanban Norte
+Makati City
+Majayjay
+Mahayag
+Magsaysay
+Magarao
+Maganoy
+Magalang
+Maco
+Mabalacat City
+Maasin
+Maao
+Lupon
+Lumbang
+Lucena
+Lucban
+Lubao
+Los Banos
+Lopez
+Loma de Gato
+Loboc
+Lipa City
+Lingayen
+Limay
+Liloan
+Lilio
+Libon
+Libertad
+Legaspi
+Laur
+La Trinidad
+Las Pinas
+Lapu-Lapu City
+La Paz
+Laoang
+Laoag
+Lambayong
+Laguilayan
+Lagawe
+La Castellana
+La Carlota
+Labo
+Koronadal
+Kidapawan
+Kawit
+Kalibo
+Kalamansig
+Kabankalan
+Kabacan
+Jose Panganiban
+Jolo
+Jetafe
+Jasaan
+Jalajala
+Jagna
+Jaen
+Itogon
+Isulan
+Isabela
+City of Isabela
+Irosin
+Iriga City
+Ipil
+Inopacan
+Indang
+Inabanga
+Imus
+Impasugong
+Iloilo
+Iligan City
+Iligan
+Ilagan
+Iba
+Hinigaran
+Hinatuan
+Himamaylan
+Hermosa
+Hagonoy
+Guyong
+Gumaca
+Guiset East
+Guimba
+Guihulngan
+Guiguinto
+Gubat
+Goa
+Glan
+Gingoog
+Gerona
+General Trias
+General Tinio
+General Santos
+General Mamerto Natividad
+General Emilio Aguinaldo
+Gapan
+Estancia
+Esperanza
+Escalante
+Enrique B. Magalona
+El Nido
+Dupax del Sur
+Dupax Del Norte
+Dumaguete
+Don Carlos
+Domalanoan
+Dologon
+Dipolog
+Dinalupihan
+Dinaig
+Digos
+Diadi
+Del Remedio
+Del Pilar
+Davao
+Dasmarinas
+Dapitan
+Danao
+Dagupan
+Daet
+Daanbantayan
+Cupang
+Culion
+Cuenca
+Cotabato
+Cordova
+Consolacion
+Concepcion
+Concepcion Ibaba
+Compostela
+Cebu City
+Cavite City
+Catbalogan
+Catarman
+Catanauan
+Castillejos
+Carmona
+Cogan
+Carigara
+Cardona
+Carcar
+Capas
+Canlaon
+Candelaria
+Candaba
+Camiling
+Calumpit
+Calumpang
+Caloocan
+Calbayog City
+Calauan
+Calauag
+Calatagan
+Calasiao
+Calapan
+Calamba
+Calaca
+Calabanga
+Cainta
+Mapun
+Cagayan de Oro
+Cadiz
+Cabuyao
+Cabiao
+Cabayangan
+Cabanatuan City
+Cabagan
+Cabadbaran
+Butuan
+Bustos
+Boroon
+Burgos
+Burauen
+Bunawan
+Buluan
+Bulaon
+Bulan
+Bulacan
+Buhi
+Bugo
+Buenavista
+Budta
+Brookes Point
+Botolan
+Borongan
+Bontoc
+Bongao
+Bongabon
+Bogo
+Bocaue
+Bislig
+Binonga
+Binondo
+Binmaley
+Binangonan
+Binan
+Binalbagan
+Bignay Uno
+Upper Bicutan
+Bel Air
+Bayugan
+Bayombong
+Baybay
+Bayawan
+Bayanan
+Bayambang
+Bay
+Bauang
+Bauan
+Bato
+Batangas
+Batac City
+Baras
+Bantayan
+Bantay
+Bansalan
+Bangued
+Banga
+Banga
+Bambang
+Bamban
+Balulang
+Baliuag
+Balayan
+Balanga
+Balamban
+Balagtas
+Bais
+Bah-Bah
+Baguio
+Bagong Barrio
+Bago City
+Baggabag B
+Bacoor
+Bacolod City
+Baclaran
+Babo-Pangulo
+Baao
+Atimonan
+Asia
+Aringay
+Arayat
+Aparri
+Apalit
+Antipolo
+Angono
+Angeles City
+Angat
+Amadeo
+Alicia
+Aliaga
+Alaminos
+Alabel
+Agoo
+Aglipay
+Abuyog
+Abucay
+Bagong Pagasa
+Malingao
+Jose Rizal
+Commonwealth
+Bagong Silangan
+Pasig City
+Poblacion
+Tabuk
+Pandan
+Ayala Alabang
+Banco Filipino Homes
+Apas
+General Salipada K. Pendatun
+Bagong Silang
+Al-Barka
+Mandaluyong

@@ -1,0 +1,141 @@
+Ujszeged
+Torokszentmiklos
+Tiszaujvaros
+Szolnok
+Szentes
+Szeged
+Szarvas
+Satoraljaujhely
+Puspokladany
+Ozd
+Oroshaza
+Nyiregyhaza
+Miskolc
+Mezotur
+Mezokovesd
+Mateszalka
+Mako
+Kisvarda
+Kazincbarcika
+Karcag
+Hodmezovasarhely
+Hajduszoboszlo
+Hajdunanas
+Hajduboszormeny
+Gyula
+Gyomaendrod
+Eger
+Diosgyor
+Debrecen
+Csongrad
+Bekescsaba
+Bekes
+Balmazujvaros
+Abony
+Zuglo
+Zalaegerszeg
+Veszprem
+Veresegyhaz
+Vecses
+Varpalota
+Vac
+Ujpest
+Tatabanya
+Tata
+Tapolca
+Szombathely
+Szigetszentmiklos
+Szentendre
+Szekszard
+Szekesfehervar
+Szazhalombatta
+Sopron
+Siofok
+Sashalom
+Sarvar
+Salgotarjan
+Rakosszentmihaly
+Rakospalota
+Rakoskeresztur
+Pestlorinc
+Pesterzsebet
+Pest
+Pecs
+Papa
+Paks
+Oroszlany
+Obuda
+Naphegy
+Nagykoros
+Nagykanizsa
+Mosonmagyarovar
+Monor
+Mohacs
+Matyasfold
+Lagymanyos
+Komlo
+Komarom
+Kobanya
+Kispest
+Kiskunhalas
+Kiskunfelegyhaza
+Kiskoros
+Keszthely
+Kelenfold
+Kecskemet
+Kaposvar
+Kalocsa
+Jaszbereny
+Hatvan
+Gyor
+Gyongyos
+Gyal
+Godollo
+God
+Fot
+Ferencvaros
+Esztergom
+Erzsebetvaros
+Erd
+Dunaujvaros
+Dunakeszi
+Dunaharaszti
+Dombovar
+Dabas
+Cegled
+Budapest
+Budaors
+Budafok
+Buda
+Bekasmegyer
+Baja
+Angyalfold
+Ajka
+Ujpalota
+Budapest V. kerulet
+Budapest XII. kerulet
+Budapest XI. kerulet
+Budapest VIII. kerulet
+Budapest VI. kerulet
+Budapest XIII. kerulet
+Budapest IV. kerulet
+Budapest XV. kerulet
+Budapest XVI. kerulet
+Budapest XIX. kerulet
+Budapest XVIII. kerulet
+Budapest XXIII. kerulet
+Budapest XXII. kerulet
+Budapest XXI. kerulet
+Budapest XX. kerulet
+Budapest XVII. kerulet
+Budapest III. kerulet
+Budapest II. kerulet
+Budapest I. kerulet
+Jozsefvaros
+Csepel-Kiralyerdo
+Csepel-Csillagtelep
+Kozepso-Ferencvaros
+Ohegy
+Ujlipotvaros
+Alsorakos
+Kaposztasmegyer

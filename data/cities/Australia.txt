@@ -1,0 +1,311 @@
+Whyalla
+Scarborough
+Rockingham
+Port Hedland
+Perth
+Mount Isa
+Mount Barker
+Morphett Vale
+Mandurah
+Kwinana
+Kalgoorlie
+Gosnells
+Geraldton
+Gawler
+Darwin
+Byford
+Busselton
+Bunbury
+Australind
+Alice Springs
+Albany
+Adelaide
+Yarraville
+Wollert
+Wodonga
+Wheelers Hill
+Westmead
+Werribee
+Warwick
+Warrnambool
+Warragul
+Wantirna South
+Wangaratta
+Wallan
+Wahroonga
+Upper Coomera
+Tuggeranong
+Truganina
+Traralgon
+Townsville
+Torquay
+Toowoomba
+Thornbury
+Thomastown
+Templestowe
+Tarneit
+Taree
+Tamworth
+Sydney
+Surry Hills
+Surfers Paradise
+Sunbury
+Strathfield
+Springvale
+South Yarra
+Southport
+Shepparton
+Seven Hills
+Seaford
+Saint Kilda
+Saint Ives
+Saint Albans
+Ryde
+Rowville
+Rockhampton
+Rockdale
+Ringwood
+Richmond
+Reservoir
+Quakers Hill
+Preston
+Port Melbourne
+Port Macquarie
+Point Cook
+Pascoe Vale
+Palm Beach
+Pakenham
+Orange
+Officer
+North Melbourne
+Northcote
+Noble Park
+Newcastle
+Nerang
+Narre Warren
+Narangba
+Muswellbrook
+Mulgrave
+Mount Waverley
+Mount Martha
+Mount Gambier
+Mount Eliza
+Mount Druitt
+Mosman
+Mornington
+Morayfield
+South Morang
+Mooroolbark
+Moonee Ponds
+Mitcham
+Miranda
+Mill Park
+Mildura
+Merrylands
+Mernda
+Melbourne
+Mascot
+Maryborough
+Marrickville
+Maroubra
+Manly
+Maitland
+Mackay
+Liverpool
+Lilydale
+Lidcombe
+Launceston
+Lara
+Langwarrin
+Lalor
+Lakemba
+Kogarah
+Keysborough
+Kew
+Kensington
+Horsham
+Hornsby
+Hobart
+Hawthorn South
+Hawthorn
+Hampton Park
+Gympie
+Griffith
+Greenvale
+Greensborough
+Granville
+Grafton
+Goulburn
+Gold Coast
+Glen Waverley
+Glenroy
+Glen Iris
+Glenferrie
+Gladstone
+Geelong
+Frankston East
+Frankston
+Footscray
+Fairfield
+Essendon
+Epping
+Engadine
+Eltham
+Eight Mile Plains
+Echuca
+Eastwood
+Earlwood
+Dubbo
+Doreen
+Doncaster East
+Doncaster
+Devonport
+Deer Park
+Deception Bay
+Dandenong
+Croydon
+Cronulla
+Cranbourne
+Craigieburn
+Corio
+Coorparoo
+Coogee
+Coffs Harbour
+Coburg
+Clayton
+Wollongong
+Chatswood
+Cessnock
+Caulfield North
+Castle Hill
+Carrum Downs
+Carnegie
+Carlton
+Carlingford
+Capalaba
+Canberra
+Camberwell
+Caloundra
+Cairns
+Caboolture
+Burwood
+Burnie
+Bundaberg
+Buderim
+Brunswick
+Broken Hill
+Brisbane
+Brighton
+Boronia
+Blacktown
+Bexley
+Berwick
+Bentleigh East
+Bentleigh
+Bendigo
+Baulkham Hills
+Bathurst
+Batemans Bay
+Banora Point
+Bankstown
+Ballarat
+Bairnsdale
+Bacchus Marsh
+Auburn
+Ashfield
+Ascot Vale
+Armidale
+Albany Creek
+Maroochydore
+Cheltenham
+Randwick
+Dee Why
+Umina Beach
+Palmerston
+Hervey Bay
+Blue Mountains
+Sydney Central Business District
+Karratha
+Kingsford
+Springfield Lakes
+Bracken Ridge
+Kallangur
+North Lakes
+The Gap
+Pittwater
+Caroline Springs
+Hoppers Crossing
+Logan City
+Carindale
+Parramatta
+Ferntree Gully
+Adelaide Hills
+Canning Vale
+Glenmore Park
+Southbank
+Docklands
+Helensvale
+Elwood
+Balwyn North
+Malvern East
+Brighton East
+Redbank Plains
+Labrador
+St Albans
+Central Coast
+Endeavour Hills
+Kellyville
+Taylors Lakes
+Cherrybrook
+Roxburgh Park
+Prestons
+Wyndham Vale
+Ballajura
+Willetton
+Glenwood
+Cabramatta
+Campsie
+Casula
+Cranebrook
+Greenacre
+Greystanes
+Ellenbrook
+Alexandra Hills
+Calamvale
+Yagoona
+Highton
+Pacific Pines
+Robina
+Paralowie
+Baldivis
+Dianella
+Duncraig
+Morley
+Thornlie
+Landsdale
+Punchbowl
+Parafield Gardens
+Hillside
+St Clair
+Kirwan
+Bundoora
+Forest Lake
+Sunnybank Hills
+Rochedale South
+Keilor East
+Cranbourne East
+Cranbourne North
+Cranbourne West
+Narre Warren South
+Dandenong North
+Frankston South
+Sunshine West
+Altona Meadows
+Taylors Hill
+Hurstville
+West Pennant Hills
+City of Port Phillip
+Sunshine Coast
+Melbourne City Centre
+Adelaide city centre
+Wollongong city centre

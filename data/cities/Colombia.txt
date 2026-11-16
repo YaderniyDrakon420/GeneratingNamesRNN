@@ -1,0 +1,310 @@
+Zipaquira
+Zarzal
+Zaragoza
+Yumbo
+Yopal
+Yondo
+Yarumal
+Villeta
+Villavicencio
+Villa del Rosario
+Villanueva
+Villamaria
+Velez
+Valledupar
+Urrao
+Villa de San Diego de Ubate
+Turbo
+Turbaco
+Tuquerres
+Tunja
+Tumaco
+Tulua
+Tolu Viejo
+Santiago de Tolu
+Tocancipa
+Timbiqui
+Tierralta
+Tauramena
+Tarqui
+Tame
+Tado
+Supia
+Sucre
+Suarez
+Sonson
+Soledad
+Sogamoso
+Socorro
+Soacha
+Sitionuevo
+Sincelejo
+San Luis de Since
+Simiti
+Silvania
+Sibate
+Sevilla
+Segovia
+San Vicente
+Santuario
+Santo Tomas
+Santa Rosa de Osos
+Santa Rosa de Cabal
+Santa Rosa
+Santander de Quilichao
+Santa Marta
+Santa Lucia
+San Pedro de Uraba
+San Pablo
+San Onofre
+San Martin
+San Marcos
+San Lorenzo
+San Juan Nepomuceno
+San Juan de Uraba
+San Juan del Cesar
+San Jacinto
+San Gil
+San Estanislao
+San Diego
+San Carlos
+San Benito Abad
+San Antero
+San Andres
+Sampues
+Samaniego
+Salgar
+Salamina
+Sahagun
+Sabaneta
+Sabanalarga
+Sabanagrande
+Sabana de Torres
+Rovira
+Roldanillo
+Rivera
+Riosucio
+Rionegro
+Riohacha
+Rioblanco
+Retiro
+Restrepo
+Repelon
+Quinchia
+Quimbaya
+Quibdo
+Purificacion
+Pupiales
+Puerto Wilches
+Puerto Triunfo
+Puerto Tejada
+Puerto Santander
+Puerto Salgar
+Puerto Rico
+Puerto Lopez
+Puerto Leguizamo
+Puerto Colombia
+Puerto Carreno
+Puerto Boyaca
+Puerto Berrio
+Puerto Asis
+Puebloviejo
+Pradera
+Popayan
+Ponedera
+Polonuevo
+Planeta Rica
+Planadas
+Pizarro
+Pivijay
+Pitalito
+Pinillos
+Piedecuesta
+Pereira
+Paz de Ariporo
+Payande
+Patia
+Pasto
+Pamplona
+Palmira
+Palmar de Varela
+Pailitas
+Belalcazar
+Padua
+Pacho
+Ocana
+Nueva Granada
+Neiva
+Neira
+Nechi
+Natagaima
+Mosquera
+Morales
+Monteria
+Montenegro
+Montelibano
+Moniquira
+Mompos
+Momil
+Mocoa
+Mitu
+Miranda
+Melgar
+Medellin
+Marsella
+San Sebastian de Mariquita
+Marinilla
+Maria la Baja
+Manzanares
+Manizales
+Manati
+Malambo
+Malaga
+Maicao
+Mahates
+Magangue
+Madrid
+Luruaco
+Los Patios
+Lorica
+Libano
+Leticia
+Lerida
+La Virginia
+La Union
+La Tebaida
+La Plata
+La Mesa
+La Jagua de Ibirico
+La Estrella
+La Dorada
+La Ceja
+Juan de Acosta
+Jamundi
+Ituango
+Itagui
+Ipiales
+Ibague
+Honda
+Hatonuevo
+Guamo
+Guamal
+Guaduas
+Guadalupe
+Guacari
+Granada
+Giron
+Girardot City
+Gigante
+Garzon
+Galeras
+Galapa
+Fusagasuga
+Funza
+Fundacion
+Frontino
+Fresno
+Fonseca
+Floridablanca
+Florida
+Florencia
+Flandes
+Facatativa
+Espinal
+Envigado
+El Zulia
+El Reten
+El Doncello
+El Copey
+El Charco
+El Cerrito
+El Carmen de Bolivar
+El Carmen de Chucuri
+El Banco
+El Bagre
+Duitama
+Dosquebradas
+Darien
+Dabeiba
+Curumani
+Cumaribo
+Cucuta
+Cotorra
+Cota
+Corozal
+Corinto
+Copacabana
+Concordia
+Circasia
+Cimitarra
+Cienaga de Oro
+Cienaga
+Chivolo
+Chiriguana
+Chiquinquira
+Chinu
+Chinchina
+Chimichagua
+Chigorodo
+Chia
+Chaparral
+Cerete
+Caucasia
+Cartago
+Cartagena
+Carmen de Viboral
+Candelaria
+Campo de la Cruz
+Campoalegre
+Cali
+Caldas
+Calarca
+Cajica
+Caicedonia
+Guadalajara de Buga
+Buesaco
+Buenaventura
+Bucaramanga
+Bosconia
+Bogota
+Betulia
+Bello
+Belen de Umbria
+Becerril
+Barranquilla
+Barrancas
+Barrancabermeja
+Barbosa
+Baranoa
+Balboa
+Ayapel
+Astrea
+Armenia
+Arjona
+Ariguani
+Arauca
+Aracataca
+Apartado
+Santa Fe de Antioquia
+Anserma
+Andes
+Andalucia
+Anaime
+Albania
+Aguazul
+Aguadas
+Aguachica
+Acacias
+Abejorral
+Villa Rica
+Fredonia
+Carepa
+Ciudad Bolivar
+Tiquisio
+Agustin Codazzi
+Isnos
+Plato
+San Jose del Guaviare
+Orito
+Kennedy
+Piendamo
